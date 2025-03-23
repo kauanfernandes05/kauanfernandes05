@@ -1,5 +1,5 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=nunito&size=25&pause=1000&color=1E90FF&random=false&width=435&lines=Hi%2C+there!+I'm+Kauan+Fernandes." alt="Typing SVG" /></a></p>
-<img src="https://media1.tenor.com/m/EHYzxILmfx0AAAAd/tinkering-tony-stark.gif" align="right" width="30%">
+<img src="https://media1.tenor.com/m/EHYzxILmfx0AAAAd/tinkering-tony-stark.gif" align="right" width="35%">
 <br>
 
 <div style="max-width: 600px;" align="center">
