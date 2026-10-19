@@ -14,7 +14,14 @@ AS<div align="center">
 
 ---
 
-<img src="https://media1.tenor.com/m/EHYzxILmfx0AAAAd/tinkering-tony-stark.gif" align="right" width="32%" alt="Tony Stark tinkering" />
+
+<img
+  src="./assets/tony-stark.png"
+  alt="Tony Stark trabalhando com tecnologia holográfica"
+  align="right"
+  width="35%"
+/>
+
 
 ### 👨‍💻 About me
 
