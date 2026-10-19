@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # Hey there! I'm Kauan Fernandes 👋
 
