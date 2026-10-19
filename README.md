@@ -15,7 +15,6 @@
 ---
 <img src="https://media1.tenor.com/m/EHYzxILmfx0AAAAd/tinkering-tony-stark.gif" align="right" width="32%" alt="Tony Stark tinkering" />
 
-
 ### 👨‍💻 About me
 
 - 🎓 Software Engineering student, currently in the **6th semester**.
