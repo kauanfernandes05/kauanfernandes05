@@ -56,25 +56,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
----
 
-### 📈 GitHub activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kauanfernandes005&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanfernandes005&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
-> 💡 This profile is a work in progress — I'm documenting what I learn and sharing projects along the way.
-
----
-
-<div align="center">
-
-### 🤝 Let's connect!
 
 I'm always open to exchanging ideas about **software development, data and automation**.
 
